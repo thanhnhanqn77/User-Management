@@ -25,7 +25,6 @@ This project demonstrates how to train a **ResNet-34 model** on the Fashion MNIS
 
 ---
 
-## 🛠️ Installation
 
 ### 1️⃣ Clone the repository
 
